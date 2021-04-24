@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SqlEducation</string>
+    <string name="button_add">Add</string>
+    <string name="button_read">Read</string>
+    <string name="button_clean">Clean</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="ButAdd">Add</string>
+    <string name="ButRead">Read</string>
+    <string name="ButClean">Clean</string>
+    <string name="Attention">Заполните поля Name и Email</string>
+    <string name="Error">База данных пуста</string>
+    <string name="Null"></string>
+</resources>
